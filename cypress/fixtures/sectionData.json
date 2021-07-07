@@ -1,0 +1,9 @@
+{
+  "WebDriver Protocol": {"href": "/docs/api/webdriver"},
+  "Appium": {"href": "/docs/api/appium"},
+  "Mobile JSON Wire Protocol": {"href": "/docs/api/mjsonwp"},
+  "Chromium": {"href": "/docs/api/chromium"},
+  "Sauce Labs": {"href": "/docs/api/saucelabs"},
+  "Selenium Standalone": {"href": "/docs/api/selenium"},
+  "JSON Wire Protocol": {"href":"/docs/api/jsonwp"}
+}

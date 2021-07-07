@@ -1,0 +1,16 @@
+{
+  "name": "cypress-demo-showcase-by-gencho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests":"./node_modules/.bin/cypress run",
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
